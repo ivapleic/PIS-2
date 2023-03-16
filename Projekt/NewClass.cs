@@ -6,5 +6,6 @@ namespace Projekt
 {
     class NewClass
     {
+        Console.WriteLine("Promjena na Githubu");
     }
 }
